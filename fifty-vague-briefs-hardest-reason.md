@@ -1,18 +1,22 @@
 <div align="center">
 
-<img src="assets/masthead.png" alt="Fifty Vague Briefs" width="100%" />
+<img src="assets/masthead.png" alt="Fifty Vague Briefs, hardest-reason set" width="100%" />
 
 <br/>
 
-*A set of messy, human asks for testing whether a model can actually make something.*
+**Vague / hardest-reason set**
+
+*Foggy on purpose. The model has to infer the goal, the medium, and the quality bar from messy human talk.*
 
 **10 rooms · 5 briefs each · always one file · always Go all out.**
 
 </div>
 
-These are written the way people actually brief things. A little foggy, a little specific, always sensory. Each one is meant to push past the default demo: the bouncing circle, the spinning cube, the three pie charts, the two second beep. If the model is paying attention, the result should feel authored. If it is not, the result will look like homework.
+This is the hard variant. The language is rambling, sensory, and under-specified, closer to a person thinking out loud than a real brief. Use it to test whether a model can still recover a serious standalone html piece when the ask is unclear.
 
-Every brief already contains the only hard constraint that matters. The whole thing lives in one standalone html file. No extra assets. No excuses. The last two words are always the same.
+If you want the same fifty worlds written so the goal is obvious, use [fifty-briefs-readable.md](fifty-briefs-readable.md).
+
+Every brief still ends the same way. The whole thing lives in one standalone html file. No extra assets. No excuses. The last two words are always the same.
 
 <p align="center"><img src="assets/rule.png" alt="" width="220" /></p>
 
