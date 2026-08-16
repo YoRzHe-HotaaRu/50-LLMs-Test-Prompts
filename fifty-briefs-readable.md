@@ -6,15 +6,15 @@
 
 **Readable set**
 
-*Same fifty worlds as the vague file, rewritten so a model can tell what to build on the first read.*
+*What it is, a bit more of what is on screen, a named art style, then go all out.*
 
-**10 rooms · 5 briefs each · always one file · always Go all out.**
+**11 rooms · 56 briefs · always one file · always Go all out.**
 
 </div>
 
-Each brief names the deliverable first: a single standalone html file, the medium (SVG, Three.js, pixel art, Web Audio, and so on), and the scene or product. The rest of the paragraph is there to stop the default demo from happening, the bouncing circle, the spinning cube, the three pie charts, the two second beep.
+Each brief names the thing, adds enough on-screen detail to aim, and locks an art style.
 
-The rambling version of these same asks lives in [fifty-vague-briefs-hardest-reason.md](fifty-vague-briefs-hardest-reason.md). Use that one when you want the model to infer the goal. Use this one when you want the goal to be obvious.
+The spoken twin is [fifty-vague-briefs-hardest-reason.md](fifty-vague-briefs-hardest-reason.md).
 
 <p align="center"><img src="assets/rule.png" alt="" width="220" /></p>
 
@@ -28,7 +28,7 @@ The rambling version of these same asks lives in [fifty-vague-briefs-hardest-rea
     <td align="center"><a href="#04-heard-things"><strong>04</strong> Heard Things</a><br/><sub>Music and song</sub></td>
   </tr>
   <tr>
-    <td align="center"><a href="#05-the-long-take"><strong>05</strong> The Long Take</a><br/><sub>Cinematic story games</sub></td>
+    <td align="center"><a href="#05-the-long-take"><strong>05</strong> The Long Take</a><br/><sub>Games and sims</sub></td>
     <td align="center"><a href="#06-the-boardroom"><strong>06</strong> The Boardroom</a><br/><sub>Financial dashboards</sub></td>
   </tr>
   <tr>
@@ -37,7 +37,10 @@ The rambling version of these same asks lives in [fifty-vague-briefs-hardest-rea
   </tr>
   <tr>
     <td align="center"><a href="#09-things-that-fall"><strong>09</strong> Things That Fall</a><br/><sub>Physics playgrounds</sub></td>
-    <td align="center"><a href="#10-words-that-move"><strong>10</strong> Words That Move</a><br/><sub>Kinetic type</sub></td>
+    <td align="center"><a href="#10-no-ceiling"><strong>10</strong> No Ceiling</a><br/><sub>Unlimited-budget websites</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="#11-hands-off"><strong>11</strong> Hands Off</a><br/><sub>Automatic 3D</sub></td>
   </tr>
 </table>
 
@@ -47,37 +50,27 @@ The rambling version of these same asks lives in [fifty-vague-briefs-hardest-rea
 
 **Animated SVGs**
 
-Build a living vector scene. Morphing, weather, machinery, light. Not a logo spin.
+A living vector scene. Not a logo spin.
 
-> **01 / 50**
+> **01 / 56**
 >
-> Create a single standalone HTML file that is an animated SVG scene of a night tram window in heavy rain. The city outside should smear into long wet streaks, and the neon signs should slowly morph and breathe as if the letters cannot settle on a language. Put a faint passenger reflection in the glass, a ticket stub stuck in the corner, and another tram that occasionally slides past the other way.
->
-> Draw every drip and flicker as real SVG. No image files and no extra assets. The page should feel like a window you can leave open. Go all out.
+> Create a single HTML file of an animated SVG of hot-air balloons lifting at dawn. Balloons actually rise and drift, burners as gold flashes, a valley of mist, layered hills. Art style: 1920s travel poster, cream, terracotta, a strip of gold. Go all out. Use a suitable name for the html file.
 
-> **02 / 50**
+> **02 / 56**
 >
-> Create a single standalone HTML file of an animated SVG pocket watch that opens into an exploded view. Gears, springs, jewels, and roman numerals should unspool, drift, and then click back into place on a loop. It should look like brass and enamel, expensive and a little unhinged, the kind of object a Victorian engineer would build after three sleepless nights.
->
-> Use only SVG paths and motion. No photographs, no extra files. Go all out.
+> Create a single HTML file of an animated SVG hummingbird drinking from a flower. It hovers, then drinks, wings beating fast, pollen and dew in the air, the flower swaying, a paper-shadow under the bird. Art style: 19th century natural-history watercolor on cream paper, fine ink lines, wet color, a small invented latin label in the corner. Go all out. Use a suitable name for the html file.
 
-> **03 / 50**
+> **03 / 56**
 >
-> Create a single standalone HTML file of an animated SVG flower that should not exist. It grows from a wet seed in dark soil, petals unfolding in a slightly wrong order, leaves veining themselves while you watch, pollen lifting off like tiny lanterns. Colors should keep shifting as if the plant is trying on different centuries, and when it fully opens the center should reveal a small greenhouse floor plan.
->
-> Loop the birth and the death so both are beautiful. SVG only, one file. Go all out.
+> Create a single HTML file of an animated SVG whale swimming under a moonlit sea. The whale actually moves, light shafts, plankton as gold specks, a moon path on the water. Art style: 19th century maritime painting, deep indigo, bone-white, a gold moon. Go all out. Use a suitable name for the html file.
 
-> **04 / 50**
+> **04 / 56**
 >
-> Create a single standalone HTML file of an animated SVG underwater scene: a choir of jellyfish in black water. Their bells should pulse out of sync, with trails of light that almost write cursive and then forget. One slower, older jellyfish should drift across the foreground, and the whole page should feel deep, as if the file itself has pressure.
->
-> Use SVG gradients and glow that make someone lean closer to the screen. No images. Go all out.
+> Create a single HTML file of an animated SVG tiger walking through bamboo. The stalks part, stripes catching light, a slow turn of the head, a few birds as small marks. Art style: Chinese ink and color on silk, gold-green bamboo, the tiger fills the page. Go all out. Use a suitable name for the html file.
 
-> **05 / 50**
+> **05 / 56**
 >
-> Create a single standalone HTML file of one animated SVG ink landscape that changes season without becoming a slideshow. Keep a stable composition (mountains, a bridge, a tiny figure with an umbrella) while the same drawing rewrites itself from mist to cherry weather to a hard winter lake to gold-leaf autumn. Birds can be commas. The moon can be a pause.
->
-> It has to be one living drawing, not four pictures swapping. SVG only. Go all out.
+> Create a single HTML file of an animated SVG campsite at night. A person sitting by the fire playing guitar, animals gathering around, a beautiful night sky. The fire moves, stars, a few notes as gold specks. Art style: storybook night camp, gold fire, navy sky, a ring of animals. Go all out. Use a suitable name for the html file.
 
 <p align="center"><img src="assets/rule.png" alt="" width="220" /></p>
 
@@ -85,37 +78,27 @@ Build a living vector scene. Morphing, weather, machinery, light. Not a logo spi
 
 **Three.js**
 
-A real 3D scene with light, space, and a camera. If it looks like a cube spinning in a void, it failed.
+A big 3D simulation. Spectacle, not a quiet room.
 
-> **06 / 50**
+> **06 / 56**
 >
-> Create a single standalone HTML file of a Three.js space station you can look around and drift through. Most lights are dead, a few buzz on a delay, there is condensation on a cupola, and a plant has gone feral in the hydroponics bay. Outside the glass, a planet sits too close and the sun should throw lens flare across an old HUD.
->
-> Make it feel like a place, not a skybox with a model in the middle. One file, no extra assets. Go all out.
+> Create a single HTML file of a realistic Three.js tornado going through a city and destroying everything. A real funnel, rain, buildings coming apart, cars lifted, debris in the air. The tornado actually moves down the streets. Go all out. Use a suitable name for the html file.
 
-> **07 / 50**
+> **07 / 56**
 >
-> Create a single standalone HTML file of a Three.js cobblestone alley at 3am after rain. Everything should be wet enough to reflect. Include a working bakery sign, steam from a grate, a cat that might only be a shadow, and one third-floor window with a lamp still on. The camera should let you look around or walk the alley.
->
-> Puddles need real reflections and neon should bleed. Moody, like a photograph taken by accident. Go all out.
+> Create a single HTML file of a Three.js military battle between two countries, seen from the eye of god. Two armies on a huge field: tanks, infantry, explosions, smoke, the fight actually moving, not sitting still. You look down from high above and can pan. Go all out. Use a suitable name for the html file.
 
-> **08 / 50**
+> **08 / 56**
 >
-> Create a single standalone HTML file of a tiny Three.js museum that only contains glass sculptures. The pieces should look like frozen conversations, with caustics crawling across the floor, a skylight doing too much work, and dust in the beams. You wander with the camera as if you snuck in after hours, and each sculpture should wake its inner light a little when you get close.
->
-> Lighting is the whole point. Take it seriously. Go all out.
+> Create a single HTML file of a Three.js 3D bike riding simulator. You ride, you can steer and speed up, a road through a landscape, the world moving past you. Third person behind the bike. Go all out. Use a suitable name for the html file.
 
-> **09 / 50**
+> **09 / 56**
 >
-> Create a single standalone HTML file of a made-up planet in Three.js that you can spin with the mouse. Invent the oceans and land. Put one city glowing on the night side. Clouds should have weight, and if you leave it alone a storm should gather. A small moon on an orbit is welcome.
->
-> Light it so the sphere feels like a real object sitting in a dark room, not a textured ball in empty space. Go all out.
+> Create a single HTML file of a beautiful, majestic Three.js black hole. A bright accretion disk, gravitational lensing, a photon ring, a dense star field. You can orbit it. It should feel enormous, not a dark swirl. Go all out. Use a suitable name for the html file.
 
-> **10 / 50**
+> **10 / 56**
 >
-> Create a single standalone HTML file of a Three.js vinyl shop that does not obey a real floorplan. Records and sleeves should float. Clicking an album tilts it toward you and shifts the room's color temperature to match that record. Add a listening booth that is just a cone of warmer light, plus dust, wood grain, and a cat on the counter if you can.
->
-> You should be able to poke around until you find a record you would want, even though none of them are real. Go all out.
+> Create a single HTML file of a beautiful Three.js solar system. The sun, planets that look like themselves, Saturn with rings, Earth with clouds, real-feeling orbits, a star field. You can fly around. Go all out. Use a suitable name for the html file.
 
 <p align="center"><img src="assets/rule.png" alt="" width="220" /></p>
 
@@ -123,37 +106,27 @@ A real 3D scene with light, space, and a camera. If it looks like a cube spinnin
 
 **Pixel art**
 
-Honest pixels, limited palette, a scene that keeps moving even if nobody is playing.
+Honest pixels. A scene that keeps living.
 
-> **11 / 50**
+> **11 / 56**
 >
-> Create a single standalone HTML file of a living pixel-art cyberpunk apartment at night. Rain on the window in fat pixels, a CRT chewing static, a cat on the only clean patch of bed, cold noodles on the desk, a fan with a broken wobble. The city outside should feel taller than the screen.
->
-> Use a real pixel palette, not blurry CSS fake pixels. Loop the room so it never quite holds still, and make a couple of objects clickable. Go all out.
+> Create a single HTML file of a living pixel-art sunset over the ocean with a lighthouse. The sun sinks, the beacon turns, waves loop, gulls, a small boat, maybe a keeper in the tower. 16 to 32 colors, sharp integer pixels, no blur. Go all out. Use a suitable name for the html file.
 
-> **12 / 50**
+> **12 / 56**
 >
-> Create a single standalone HTML file of an 8-bit temple the jungle has eaten, with a full day and night cycle. Morning gold through broken roofs, violent green noon, dusk lanterns nobody lit, night eyes in the trees. Vines should grow a pixel at a time. A fox priest or some other unofficial guardian can patrol without turning it into a combat game.
->
-> Limited colors, chunky tiles, like a lost SNES title screen that became a place. Go all out.
+> Create a single HTML file of a living pixel-art snow town at night. Falling snow, warm windows, footprints, a shop still open, chimney smoke. 16 to 32 colors, sharp integer pixels, no blur. Go all out. Use a suitable name for the html file.
 
-> **13 / 50**
+> **13 / 56**
 >
-> Create a single standalone HTML file of a pixel-art diner at 2am. The waitress needs a walk cycle. The jukebox should try to work. Neon from the parking lot should recolor the pie. One customer has been there since the previous decade, coffee never empty, rain against the glass.
->
-> The room is the point, not a menu screen. It can contain a tiny game, but the diner has to loop forever like a place the internet forgot to close. Go all out.
+> Create a single HTML file of a living pixel-art desert mesa at dusk. Wind in the sand, a canyon, a small train in the distance, stars coming out, a lizard or two. 16 to 32 colors, sharp integer pixels, no blur. Go all out. Use a suitable name for the html file.
 
-> **14 / 50**
+> **14 / 56**
 >
-> Create a single standalone HTML file of a cramped pixel-art research submarine. Gauges, rivets, a viewport that is mostly darkness until a fish the size of a bus gets curious. Dials should twitch. A sonar sweep should be watchable like television. Add condensation pixels and a mug magneted to a pipe.
->
-> Clicking things should make them actually work. Cozy claustrophobia. Go all out.
+> Create a single HTML file of a living pixel-art view from a spaceship window. Stars, a planet sliding by, a little phosphor HUD, a floating mug, someone walking past inside. 16 to 32 colors, sharp integer pixels, no blur. Go all out. Use a suitable name for the html file.
 
-> **15 / 50**
+> **15 / 56**
 >
-> Create a single standalone HTML file of a pixel-art rooftop garden on a building that is too tall. Laundry, tomatoes, a telescope, three airships in the distance, smog below like a second ocean. Wind should move flags. A kid waters plants. An old person reads a newspaper. Day should slide into purple evening.
->
-> Living diorama, honest pixels, one file. Go all out.
+> Create a single HTML file of a living pixel-art jungle waterfall. Water actually falling, mist, birds, ferns moving. 16 to 32 colors, sharp integer pixels, no blur. Go all out. Use a suitable name for the html file.
 
 <p align="center"><img src="assets/rule.png" alt="" width="220" /></p>
 
@@ -161,113 +134,83 @@ Honest pixels, limited palette, a scene that keeps moving even if nobody is play
 
 **Music and song**
 
-Original audio generated in the page, at least thirty seconds, with a beginning, a middle, and an ending. A silent visualizer is a fail.
+Original looping music in the page, 60 seconds, with a real player.
 
-> **16 / 50**
+> **16 / 56**
 >
-> Create a single standalone HTML file that composes and plays an original late-night song the moment the file opens. Soft drums, a bassline walking quietly, keys that almost become a melody and then hold back. It must last at least thirty seconds, preferably longer, with a real intro and an ending that does not just cut or die.
->
-> Put a visual on screen that belongs to this music, not a leftover audio bar. Web Audio or equivalent, no streaming, no licensed samples. Go all out.
+> Create a single HTML file that plays a 60 second original looping song with a late-night car-radio scene as the player. First person, dashboard, a radio, headlights, rain on the windshield, a straight wet highway moving under you. Seamless loop, a real arrangement that changes over the minute (melody, drums, bass), a song that belongs on a night radio, not a 4-bar pad. Art style: late-night highway from the driver's seat, wet asphalt, dark cabin, radio glow. Go all out. Use a suitable name for the html file.
 
-> **17 / 50**
+> **17 / 56**
 >
-> Create a single standalone HTML file that generates an original synthwave chase track and a picture that moves with it. Sweaty, not poster-glossy: arpeggios a little too fast, drums arguing with the bass. Give it structure, headlights intro, a middle that will not calm down, a last stretch that goes brighter instead of bigger.
->
-> At least thirty seconds, all sound created in the page, one file. Go all out.
+> Create a single HTML file that plays a 60 second original looping song inside a living pixel-art night city. Neon signs, a train, rain, windows lit, the whole scene moving with the beat. Seamless loop, a real arrangement that changes over the minute (melody, drums, bass), not a 4-bar pad. Art style: 16-bit SNES, VA-11 Hall-A / night-city pixel, magenta and teal, 16 to 32 colors, sharp integer pixels, no blur. Go all out. Use a suitable name for the html file.
 
-> **18 / 50**
+> **18 / 56**
 >
-> Create a single standalone HTML file that writes and plays a sad piece without announcing that it is sad. Start with a lonely piano, then let string-like voices arrive, and let it grow into a small orchestral shape built from oscillators. It needs dynamics, not four bars looping under a filter. Minimum thirty seconds, long enough to hum later.
->
-> Autoplay on open. The visual should feel like weather over an empty city. Go all out.
+> Create a single HTML file that plays a 60 second original looping song in a room at night. A table by the window, a laptop on the table as the player, stars outside. Seamless loop, a real arrangement that changes over the minute (melody, drums, bass), not a 4-bar pad. Art style: quiet night room, window, starlight, the laptop glow. Go all out. Use a suitable name for the html file.
 
-> **19 / 50**
+> **19 / 56**
 >
-> Create a single standalone HTML file that generates an original jungle / breakbeat track. Chopped breaks, bass in the floor, atmosphere stabs, a vocal chop that is not real lyrics. It must run at least thirty seconds and actually change, with drops, not one bar forever.
->
-> Make the page feel like pirate radio that found a browser, station chrome or guilty pulsing light. All audio original, in-file. Go all out.
+> Create a single HTML file that plays a 60 second original looping song with a 2010s music-player scene as the player. A phone or speaker, now-playing, a waveform or EQ that actually follows the music. Seamless loop, a real arrangement that changes over the minute (melody, drums, bass), a 2010s track (indie, R&B, or pop-electronic), not a 4-bar pad. Art style: 2010s now-playing, glass, dark room, album glow. Go all out. Use a suitable name for the html file.
 
-> **20 / 50**
+> **20 / 56**
 >
-> Create a single standalone HTML file that starts as an original sea shanty (synths pretending they have lungs, a squeeze-box made of oscillators) and mutates into something modern by the thirty-second mark, as if the sailors got wifi. Keep a tune you could slam a glass to. Do not fade out like the track got bored.
->
-> The page should look like a pub slowly becoming a club. One file, no licensed music. Go all out.
+> Create a single HTML file that plays a 60 second original looping song in an open field at sunset. Grass moving, a wide sky going gold, a portable speaker on a blanket as the player. Seamless loop, a real arrangement that changes over the minute (melody, drums, bass), not a 4-bar pad. Art style: open field, sunset sky, gold and pink, wind in the grass. Go all out. Use a suitable name for the html file.
 
 <p align="center"><img src="assets/rule.png" alt="" width="220" /></p>
 
 ## 05 The Long Take
 
-**Cinematic storytelling games**
+**Games and sims**
 
-A short playable story with atmosphere, sound, and choices that change something. Not a slideshow with a Next button.
+Playable. Not a slideshow.
 
-> **21 / 50**
+> **21 / 56**
 >
-> Create a single standalone HTML file of a short cinematic game: you are the last person answering the radio in a city that has become a river. Click around a dim studio, twist dials, choose what you say, and let the weather outside change based on whether you were kind. It should feel shot through wet glass, long quiet, then a voice that should not still be on the other end.
->
-> Complete in one sitting. Lighting, sound, and how text arrives all do acting work. Playable, not a comic. Go all out.
+> Create a single HTML file of a Geometry Dash clone. 2D, not 3D. A cube, tap or click to jump, spikes and gaps, the course scrolling, a fail that stings, try again. Make it actually fun to play. Go all out. Use a suitable name for the html file.
 
-> **22 / 50**
+> **22 / 56**
 >
-> Create a single standalone HTML file of a short cinematic road-movie game. You hitchhike a desert that is not always a desert: sometimes parking lot, sometimes a motel whose vacancy sign was already on. Drivers talk like they have been in the car for years. Small choices should rewrite the color of the sky.
->
-> Camera, heat, music. Sendable like a postcard. One file. Go all out.
+> Create a single HTML file that recreates the match three puzzle format but wraps it in a full RPG progression system where each level represents a battle against a fantasy creature. Matching sword gems should charge an attack meter, while heart gems restore health and shield gems build defense. The board itself should sit in a 3D arena where a hero character faces off against animated monsters that react to your moves. Combos should trigger special attacks with particle effects, and boss encounters should introduce board obstacles like locked tiles and poison clouds that require strategic clearing rather than simple pattern matching. Go all out. Use a suitable name for the html file.
 
-> **23 / 50**
+> **23 / 56**
 >
-> Create a single standalone HTML file of a playable hotel where every floor is a different decade and the elevator is a moral decision. You arrive with a key that does not match your memory of your face. Staff are polite in a way that suggests worse guests than you have been buried. Wander, open drawers, overhear, pick floors.
->
-> Film grain, cinematic framing, enough interaction that it is clearly a game. Go all out.
+> Create a single HTML file of a realistic 3D gun-shooting simulation on a firing range. Switch weapons and actually fire them so you can see what each one does: .50 cal (heavy recoil, long tracer, punch through steel), tank-piercing round (goes through a tank hull dummy), homing launcher (lock on, missile tracks), Kriss Vector (fast SMG, brass, muzzle), shotgun (pellet spread, close punch). Muzzle flash, recoil, impacts, smoke, sound. Art style: photoreal, documentary range, no cartoon guns. A sim of the effects, not a sticker of a gun. Go all out. Use a suitable name for the html file.
 
-> **24 / 50**
+> **24 / 56**
 >
-> Create a single standalone HTML file of a lighthouse-keeper game that plays in one sitting. Each night you log weather, decide whether to keep the lamp honest, and sometimes there are knocks that are not weather. Look like tired film: tea-colored interiors, windows that make beauty feel unsafe. Choices change what comes ashore.
->
-> Sound does a lot of the acting. No extra engine, just the night in one file. Go all out.
+> Create a single HTML file of Flappy Bird, 1:1, 2D. Tap to flap, pipes, a score, restart on hit. Same look, same feel as the original. Go all out. Use a suitable name for the html file.
 
-> **25 / 50**
+> **25 / 56**
 >
-> Create a single standalone HTML file of a cinematic conversation game on a night train. You sit across from a younger version of yourself who is not in the mood. Windows skip like a record. The talk branches and must go somewhere, but the carriage still exists: luggage racks, bad coffee, a conductor who knows both of you and pretends not to.
->
-> The train arrives whether you are ready or not. One file. Go all out.
+> Create a single HTML file of a 3D racing game like CSR Racing 2. Playable race, a glossy supercar, nitro, a shift, a night-city strip or drag strip, an opponent. Invent the cars, no real brand logos. Art style: CSR Racing 2, photoreal paint, neon city, wet asphalt, cinematic camera. Make it actually fun to play. Go all out. Use a suitable name for the html file.
 
 <p align="center"><img src="assets/rule.png" alt="" width="220" /></p>
 
 ## 06 The Boardroom
 
-**Corporate financial dashboards**
+**Financial dashboards**
 
-Dense, specific, and company-shaped. Not three charts and a navy header.
+Dense and specific. Not three charts and a navy header.
 
-> **26 / 50**
+> **26 / 56**
 >
-> Create a single standalone HTML file of a Q3 executive war-room dashboard for an invented Fortune 500 that makes everything and is slightly ashamed of how well it is going. Show revenue against the story told to the street, regional heat, a politically inconvenient margin, and a ticker of expensive-sounding analyst notes.
->
-> Dark, dense, a room that has not seen morning. Hovering a number should feel like the number might confess. Invent the company and the tension. Go all out.
+> Create a single HTML file of a Bloomberg-style trading terminal. Eight or more panels: live-feeling tickers, a watchlist, a chart, a news strip, maybe bonds, a small map, timestamps. Invent the data. Art style: real Bloomberg, black, amber and orange type, dense, no fintech gradients. Go all out. Use a suitable name for the html file.
 
-> **27 / 50**
+> **27 / 56**
 >
-> Create a single standalone HTML file of a family-office dashboard for people who do not say how much they have. Quiet luxury, paper color, type that looks chosen by someone who collects watches. Portfolio across quiet companies, vineyards, a shipping stake, a fund that is only a letter, plus a risk panel that stays polite until opened.
->
-> Full of data: maps, performance, a calendar of boards they sit on. It should be mistakable for an internal tool if you do not look too long at the names. Go all out.
+> Create a single HTML file of a Tesla-style investor dashboard. Deliveries vs plan, energy, a map, a stock-like chart, one huge number, a simple car silhouette. Invent the quarter. Art style: Tesla.com / car UI, white space, red accent, huge numbers, almost no chrome. Go all out. Use a suitable name for the html file.
 
-> **28 / 50**
+> **28 / 56**
 >
-> Create a single standalone HTML file of a foreign-exchange floor compressed onto one screen. Twitching pairs, a world map as a mood ring for liquidity, a central bank calendar, a blotter, theater that looks live. Late-trading aesthetic, CRT ghosts and good type, not a fintech startup gradient.
->
-> Dense enough that a real trader would lean in before calling the bluff. Go all out.
+> Create a single HTML file of a live crypto trading dashboard. BTC plus a few alts, candles, an order book twitching, a heat map. Fake but dense. Art style: TradingView night mode, dark, green and red candles, neon ticks. It should feel like it is moving. Go all out. Use a suitable name for the html file.
 
-> **29 / 50**
+> **29 / 56**
 >
-> Create a single standalone HTML file of a group dashboard for an invented luxury conglomerate that owns four fashion houses, a distillery, a hotel chain nobody admits is a hotel chain, and a cosmetics line that prints money. Each maison needs its own pulse: wholesale versus boutique, a China number everyone pretends is fine, a creative calendar next to inventory aging.
->
-> Beautiful in a ruthless way, expensive and a little bored, like the board in Milan before lunch. Go all out.
+> Create a single HTML file of a luxury hotel revenue dashboard. Occupancy by room type, ADR, restaurants, a calendar, tonight's arrivals. Invent the property. Art style: Aman / quiet paper, sand and stone, small serif type, no neon. Go all out. Use a suitable name for the html file.
 
-> **30 / 50**
+> **30 / 56**
 >
-> Create a single standalone HTML file of an energy-major operations cockpit. Split soul: barrels and wind. Map of assets, calmly presented emissions, a projects pipeline with dates everyone knows have slipped. Alerts, a crude strip, a renewables capacity curve climbing just fast enough to be a press release.
->
-> Operational density, not a sustainability brochure. It should feel like a wall in Houston at 6:40 in the morning. Go all out.
+> Create a single HTML file of a SpaceX-style launch control dashboard. T-minus countdown, fuel, telemetry, a trajectory map, four camera tiles that are graphic (not video files). Art style: mission control, huge screens, blue-gray, countdown grotesk, invented (no NASA or SpaceX logos). Go all out. Use a suitable name for the html file.
 
 <p align="center"><img src="assets/rule.png" alt="" width="220" /></p>
 
@@ -275,37 +218,27 @@ Dense, specific, and company-shaped. Not three charts and a navy header.
 
 **Motion graphics**
 
-A self-playing timed sequence with a clock, cuts, and holds. Not a webpage waiting for you to scroll.
+A timed film that plays itself.
 
-> **31 / 50**
+> **31 / 56**
 >
-> Create a single standalone HTML file that plays a 20 to 30 second title sequence for a prestige show that does not exist, about a city that keeps inheriting the same crime. Type arrives like it has been subpoenaed. You get unexplained glimpses of rooms, a river, a coat on a chair, all timed. End on a card that makes you believe the series already won awards.
->
-> It should run like a commercial the moment you open the file, with a replay. No editor, no After Effects, just the browser. Go all out.
+> Create a single HTML file of a 25 second Apple-style product launch film. It plays itself. Invent a small object, light travels across it, type, a one-word name at the end. Art style: Apple keynote, black void, one object, slow light, tight sans. Replay. Go all out. Use a suitable name for the html file.
 
-> **32 / 50**
+> **32 / 56**
 >
-> Create a single standalone HTML file of a self-playing product launch film for a fictional phone that is slightly too beautiful. Start in a void, find a silhouette, let light travel across the body, set type that is almost arrogant, cut a feature montage that lasts only a breath, then land a name that looks like it cost a million dollars to kern.
->
-> Timed film, not a scroll page. Do not copy the usual gadget keynote. Go all out.
+> Create a single HTML file of a Netflix-style title sequence for a made-up show, about 20 seconds. It plays itself. Invent the title. Glimpses of a city or a room, then a last card with the name. Art style: True Detective season 1 titles, film grain, double exposure, slow type. Replay. Go all out. Use a suitable name for the html file.
 
-> **33 / 50**
+> **33 / 56**
 >
-> Create a single standalone HTML file of a self-playing sports broadcast ident. Olympic-adjacent energy without copying anyone's rings. Bodies suggested by light, a stadium that is mostly atmosphere, a network mark that slams into place. Include a clock, a city name, and a fictional games year. Whooshes should still be tasteful.
->
-> It plays itself. Sit-up energy even if you do not care about the sport. Go all out.
+> Create a single HTML file of a 20 second film-studio opening ident. It plays itself. Invent the studio. Fragments or comic pages flip and assemble, then a mark that slams and a short sting. Art style: Marvel Studios intro, gold, panels, one invented mark. Do not copy a real logo. Replay. Go all out. Use a suitable name for the html file.
 
-> **34 / 50**
+> **34 / 56**
 >
-> Create a single standalone HTML file of a self-playing fashion week opener for an invented house and season. Type should walk like it has opinions about your shoes. Strobes of fabric, a runway reduced to a single white line, credits for a creative director who is probably a ghost. Music if you can. Timing that feels expensive.
->
-> It plays. It does not wait for hover. Agency-late energy. Go all out.
+> Create a single HTML file of a 20 second supercar commercial. It plays itself. Use real supercar photos from the web, do not invent or draw the car. Wet coast road, light on metal, a badge and a name at the end. Art style: Ridley Scott car film, wet asphalt, gold hour, slow. Replay. Go all out. Use a suitable name for the html file.
 
-> **35 / 50**
+> **35 / 56**
 >
-> Create a single standalone HTML file of a breaking-news motion package for a network that takes itself extremely seriously. Stings, a globe, a red that is not default red, a presenter desk that exists for four seconds, a map slam, trained type, a looping bed of urgency underneath.
->
-> It should feel like you accidentally opened a broadcast. Replay from the top. One file. Go all out.
+> Create a single HTML file of a 20 second movie trailer title sequence. It plays itself. Invent the film title. Four or five cards, sparse frames, a rumble, then the title. Art style: A24 / Nolan, IMAX-scale type, loud cuts. Replay. Go all out. Use a suitable name for the html file.
 
 <p align="center"><img src="assets/rule.png" alt="" width="220" /></p>
 
@@ -313,37 +246,27 @@ A self-playing timed sequence with a clock, cuts, and holds. Not a webpage waiti
 
 **Generative shaders**
 
-The picture is computed in WebGL or equivalent, fullscreen. If it could have been a CSS gradient, it is not finished.
+Fullscreen computed picture. Not a CSS gradient.
 
-> **36 / 50**
+> **36 / 56**
 >
-> Create a single standalone HTML file of a fullscreen generative shader of oil paint that never dries. Color should shove other color out of the way. Moving the mouse stirs the studio floor. Sometimes a face should try to happen and then the paint gets shy.
->
-> Real shader, living, not a video and not pretty noise on a slideshow. The painting is the only object in the world. Go all out.
+> Create a single HTML file of a fullscreen aurora borealis shader. Slow curtains of light, a dark ridge of mountains, real-looking stars, the mouse can lean it. Art style: Iceland winter photograph, cold green and magenta, not a rainbow screensaver. Go all out. Use a suitable name for the html file.
 
-> **37 / 50**
+> **37 / 56**
 >
-> Create a single standalone HTML file of a fullscreen math portal shader. Rings of light, a center that is too deep, small errors in the geometry that look like the universe coughing. The mouse should lean the view and the portal should notice.
->
-> Hypnotic without becoming a 1998 screensaver. Shader to the edges of the viewport. Go all out.
+> Create a single HTML file of a fullscreen ocean wave shader. Long swell, foam at the lip, a horizon, maybe a low sun, mouse can tilt the light. Art style: photoreal midday Pacific, Gerstner-like water, not cartoon waves. You should want to stare at it. Go all out. Use a suitable name for the html file.
 
-> **38 / 50**
+> **38 / 56**
 >
-> Create a single standalone HTML file of a fullscreen underwater caustics shader. Light crawls across an imaginary pool floor, wobbles, gathers, breaks. A hint of tiles is fine. A shadow of something larger than it should be is better. Mouse tilts the sun.
->
-> Slow and expensive looking. No photographs, computed water only. Go all out.
+> Create a single HTML file of a fullscreen galaxy shader you can fly through. A bright core, dust lanes, depth, you drift, drag or mouse to move, almost no UI. Art style: Hubble deep field, slow drift, real color, no clipart stars. Go all out. Use a suitable name for the html file.
 
-> **39 / 50**
+> **39 / 56**
 >
-> Create a single standalone HTML file of a generative infrared city shader. Heat haze, rooftops breathing, a river at a different temperature, windows as little fevers. It must still read as architecture, not a rainbow lookup dumped on noise. Moving the pointer is like lifting a thermal camera.
->
-> Documentary and alien at the same time. One file you could leave on a wall. Go all out.
+> Create a single HTML file of a fullscreen fire shader. Close crop, logs, heat shimmer, embers, it should feel hot. Art style: close-up campfire photograph, real logs, not a cartoon flame. Go all out. Use a suitable name for the html file.
 
-> **40 / 50**
+> **40 / 56**
 >
-> Create a single standalone HTML file of a slow nebula shader. Gas, implied stars (not clipart stars), unnamed color. Dragging through it should feel like being rude to weather at the wrong scale. Depth, filaments, the sense it would keep going if you walked away for a year.
->
-> Fullscreen, quiet, enormous. Go all out.
+> Create a single HTML file of a fullscreen rain on glass shader. Drops that race, streaks, a neon street smear behind, a city that is only color. Art style: Chungking Express, neon smeared on wet night glass. Go all out. Use a suitable name for the html file.
 
 <p align="center"><img src="assets/rule.png" alt="" width="220" /></p>
 
@@ -351,84 +274,96 @@ The picture is computed in WebGL or equivalent, fullscreen. If it could have bee
 
 **Physics playgrounds**
 
-Gravity is real. Things collide, stack, and notice when you mess with them.
+Real gravity. Things collide.
 
-> **41 / 50**
+> **41 / 56**
 >
-> Create a single standalone HTML file of a Rube Goldberg machine that actually completes a tiny task, such as ringing a bell or dropping one olive into a glass. You must be able to restart it and poke it mid-run so it fails in new ways. Dominos, a fan, a balloon, a marble, fake fire if you can do fire without making it cheap.
->
-> Handmade, a little too tall for the page, honest physics. Go all out.
+> Create a single HTML file of a wrecking ball demolishing a 3-story brick building, with real physics. A crane, you swing it, the building comes apart, a dust cloud, debris stays. Art style: dusty daylight construction site, documentary, gray and rust. Go all out. Use a suitable name for the html file.
 
-> **42 / 50**
+> **42 / 56**
 >
-> Create a single standalone HTML file of a cloth physics playground. A huge flag in weather you can change, or a curtain you can yank, or a tablecloth that meets a chair (and maybe a cat). Grab the fabric. Let it drape. Wind sliders.
->
-> It should look too pretty for a physics demo: late afternoon light, something a technical artist would keep tweaking. Go all out.
+> Create a single HTML file of a Jenga game with real physics. A tall wood tower, pull or drag a block, the tower can fall, restart. Art style: studio product shot on an oak table, real wood grain, late light. Go all out. Use a suitable name for the html file.
 
-> **43 / 50**
+> **43 / 56**
 >
-> Create a single standalone HTML file of a marble run designed like a cathedral. Tracks as architecture, stained-glass light if you can spare it, forks that are decisions, a brass bell at the bottom. Drop marbles, maybe too many, and watch the machine cope.
->
-> Collisions and stacking are the entertainment. Beautiful enough to screenshot, chaotic enough to replay. Go all out.
+> Create a single HTML file of a bowling game with real physics. Aim, throw with power, 10 pins, a gutter, a simple frame score. Art style: 1980s American alley, rented-shoe lighting, beer-ad neon, polished wood. The throw should feel good. Go all out. Use a suitable name for the html file.
 
-> **44 / 50**
+> **44 / 56**
 >
-> Create a single standalone HTML file where you can ruin a sandcastle or a small brick town. Click, drag, wind, one disrespectful wave. Crumbling should feel good. Debris stays debris. After the collapse there is still a beach and a sky that does not care.
->
-> Melancholy physics toy. One file. Go all out.
+> Create a single HTML file of a pinball game with real physics. One table, invented theme, plunger, flippers, bumpers, a drain, a score. Art style: 1990s arcade cabinet, chrome, neon, worn paint. Make it actually fun to play. Go all out. Use a suitable name for the html file.
 
-> **45 / 50**
+> **45 / 56**
 >
-> Create a single standalone HTML file of a Newton's cradle that is also an instrument. The balls do honest physics. Each impact is a note. Adding balls or changing lengths accidentally writes music. Chrome, wood, late light. A little UI that does not look like a tutorial.
->
-> A desk object that escaped a university and started performing. Satisfying for too long. Go all out.
+> Create a single HTML file of a marble run with real physics. A tall wooden machine, drop one marble or many, tracks, a bell or a catch at the bottom, restart. Art style: wooden Grimm's toy, natural wood, kids'-museum light. Pretty and replayable. Go all out. Use a suitable name for the html file.
 
 <p align="center"><img src="assets/rule.png" alt="" width="220" /></p>
 
-## 10 Words That Move
+## 10 No Ceiling
 
-**Kinetic type and editorial**
+**Unlimited-budget websites**
 
-Letterforms are the actors. This is a magazine, a credits sequence, or a campaign, not a blog template.
+A production website. Unlimited budget. All-out animations, effects, transitions. Photography or 3D, working UI.
 
-> **46 / 50**
+> **46 / 56**
 >
-> Create a single standalone HTML file that starts as a magazine cover and cannot stay a cover. Invent a night-city journal. The masthead starts walking, a headline becomes a hallway, a pull quote becomes a room you can scroll. Editorial type, weird crop, paper grain, one lighting cue that stands in for a photograph.
->
-> The whole issue is the experience. Designed enough that a designer goes quiet. Go all out.
+> Create a single HTML file of a luxury hotel website that feels like a real production. Use real resort photos from the web. Scroll-driven cinema (pinned hero, sound, page transitions), three rooms you can actually enter, a spa, a working booking flow (dates, room, confirmation). Art style: Aman, full-bleed, lots of air, quiet serif. Unlimited budget. All-out animations, effects, transitions. No limits. Go all out. Use a suitable name for the html file.
 
-> **47 / 50**
+> **47 / 56**
 >
-> Create a single standalone HTML file where an invented poem typesets itself as you scroll down. Not a typewriter gag. The page should think: words finding their measure, a stanza becoming architecture, a refrain returning in a heavier cut. The poem has to be good. The motion is the reading.
->
-> No chrome. Language occupying a rectangle. Go all out.
+> Create a single HTML file of a luxury real-estate website that feels like a real production. Use real interior and exterior photos from the web. A cinematic penthouse hero, a 3D apartment you can look around, four listings you can open (price, rooms, a plan), a working inquire or viewing. Art style: Sotheby's Realty / The Agency, full-bleed, quiet serif, city light. Unlimited budget. All-out animations, effects, transitions. No limits. Go all out. Use a suitable name for the html file.
 
-> **48 / 50**
+> **48 / 56**
 >
-> Create a single standalone HTML file of film credits you can wander. Invent a full crew that sounds like they existed. Job titles can be more specific than they need to be. The director might be the weather. Keep the long rolling gravity of real credits, but let the viewer drift sideways and find a gaffer, a best boy, an animal wrangler for a cat that never appears.
->
-> Cinematic, typographic, a little playful without becoming a joke. Go all out.
+> Create a single HTML file of a private jet company website. Use real aircraft and cabin photos from the web, plus a 3D cabin you can look around. A quiet landing, one aircraft, three destinations with a route you can follow, a working membership inquiry. Art style: VistaJet, sky, thin type, cold luxury. Unlimited budget. All-out animations, effects, transitions. No limits. Go all out. Use a suitable name for the html file.
 
-> **49 / 50**
+> **49 / 56**
 >
-> Create a single standalone HTML file of a luxury perfume campaign with no product shots. Light, type, a color trying to be a scent, a name that feels like a last name and a season. Letters can fog. A bottle can be suggested by a highlight and then denied. Avoid lazy serif-on-black luxury.
->
-> Stranger than a standard campaign, timed and still at once. Go all out.
+> Create a single HTML file of a 3-Michelin-star restaurant website. Use real food photos from the web. A seasonal tasting of 6 to 8 dishes as a scroll film (each course a full-bleed act), a chef's note, a working reservation (date, time, party, confirmation). Art style: Noma / Eleven Madison Park, natural light, one ingredient as hero, lots of white. Unlimited budget. All-out animations, effects, transitions. No limits. Go all out. Use a suitable name for the html file.
 
-> **50 / 50**
+> **50 / 56**
 >
-> Create a single standalone HTML file that starts as a newspaper (columns, a date, a city, a small true headline) and then loses its manners. Columns shear. A weather report becomes a manifesto. Classifieds confess. The masthead molts into a poster. It must stay readable and designed, not a pile of random animations.
+> Create a single HTML file of an anime and manga library website that feels like a real production. Fetch a public anime/manga API (Jikan or AniList) with no API key and no CORS problems, so titles, posters, and synopses load for real. A cinematic hero, a library you can browse, open a title (stills, a synopsis, a trailer or a manga you can page through), a working shelf or continue-watching. Unlimited budget. All-out animations, effects, transitions. No limits. Go all out. Use a suitable name for the html file.
+
+<p align="center"><img src="assets/rule.png" alt="" width="220" /></p>
+
+## 11 Hands Off
+
+**Automatic 3D**
+
+Photoreal 3D that runs itself. A solver, a machine, or a ride you can take over.
+
+> **51 / 56**
 >
-> Kinetic editorial. The last brief. Composed, not generated-looking. Go all out.
+> Create a single HTML file of a photoreal 3D Rubik's cube that scrambles at random then solves itself. Plastic, stickers, studio light, the cube turning for real, a beautiful loop. Art style: product-shot cube, white infinity, sharp plastic. Go all out. Use a suitable name for the html file.
+
+> **52 / 56**
+>
+> Create a single HTML file of a photoreal 3D chess game that plays itself. Two sides, pieces moving, a capture, it plays to a finish then resets, a loop. Art style: walnut board, studio light. Go all out. Use a suitable name for the html file.
+
+> **53 / 56**
+>
+> Create a single HTML file of a photoreal 3D Tower of Hanoi that solves itself. Wooden discs, three pegs, studio light, every legal move, then it resets and loops. Art style: product-shot wood, oak and brass pegs, late light. Go all out. Use a suitable name for the html file.
+
+> **54 / 56**
+>
+> Create a single HTML file of photoreal 3D dart shots that run themselves. Darts fly, they hit the board, a bullseye or a spread, they reset, a loop. Art style: pub dartboard, sisal, warm lamps. Go all out. Use a suitable name for the html file.
+
+> **55 / 56**
+>
+> Create a single HTML file of a photoreal 3D mechanical watch that explodes into parts then assembles itself. Gears, jewels, a case, studio light, it comes together and ticks, then it opens again, a loop. Art style: product-shot watch, steel and gold, black velvet. Go all out. Use a suitable name for the html file.
+
+> **56 / 56**
+>
+> Create a single HTML file of a photoreal 3D first-person elevator simulator. It runs itself: wait in the lobby, the doors open, walk in, ride, stop at a floor, doors open, walk out. You can take over if you want (call a floor, walk). Art style: photoreal office tower, brushed metal, warm lobby light. Go all out. Use a suitable name for the html file.
 
 <p align="center"><img src="assets/rule.png" alt="" width="220" /></p>
 
 <div align="center">
 
-*Fifty Briefs · readable set · 10 rooms · 5 each*
+*Fifty Briefs · readable set · 11 rooms · 56 briefs*
 
-*The vague hardest-reason twin is [fifty-vague-briefs-hardest-reason.md](fifty-vague-briefs-hardest-reason.md).*
+*The vague twin is [fifty-vague-briefs-hardest-reason.md](fifty-vague-briefs-hardest-reason.md).*
 
-*The only deliverable is a single standalone html file. Every ask ends with Go all out.*
+*One standalone html file. Every ask ends with Go all out.*
 
 </div>
